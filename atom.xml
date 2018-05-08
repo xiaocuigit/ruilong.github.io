@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小崔的博客</title>
+  
+  <subtitle>专注，专注，再专注</subtitle>
+  <link href="/ruilong.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/xiaocuigit/ruilong.github.io/"/>
+  <updated>2018-05-07T13:39:31.266Z</updated>
+  <id>https://github.com/xiaocuigit/ruilong.github.io/</id>
+  
+  <author>
+    <name>Abner</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一个博客</title>
+    <link href="https://github.com/xiaocuigit/ruilong.github.io/2018/05/07/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/xiaocuigit/ruilong.github.io/2018/05/07/第一个博客/</id>
+    <published>2018-05-07T13:39:31.000Z</published>
+    <updated>2018-05-07T13:39:31.266Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue May 08 2018 12:22:49 GMT+0800 (CST) --><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 08 2018 12:22:49 GMT+0800 (CST) --&gt;&lt;!-- rebuild by neat --&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/xiaocuigit/ruilong.github.io/2018/05/07/hello-world/"/>
+    <id>https://github.com/xiaocuigit/ruilong.github.io/2018/05/07/hello-world/</id>
+    <published>2018-05-07T13:05:31.397Z</published>
+    <updated>2018-05-07T15:22:41.398Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue May 08 2018 12:22:49 GMT+0800 (CST) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue May 08 2018 12:22:49 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://github.com/xiaocuigit/ruilong.github.io/tags/test/"/>
+    
+  </entry>
+  
+</feed>
