@@ -3,10 +3,24 @@
 
 
     
+  <url>
+    <loc>https://github.com/xiaocuigit/ruilong.github.io/ruilong.github.io/2018/05/08/%E9%87%91%E8%9E%8D%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E8%B0%83%E7%A0%94/</loc>
+    <lastmod>2018-05-08T06:11:44.055Z</lastmod>
+    <data>
+        <display>
+        <title>金融知识图谱调研</title>
+        <pubTime>2018-05-08T05:39:57.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>https://github.com/xiaocuigit/ruilong.github.io/ruilong.github.io/2018/05/07/hello-world/</loc>
-    <lastmod>2018-05-07T15:22:41.398Z</lastmod>
+    <lastmod>2018-05-08T05:25:28.017Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -16,6 +30,9 @@
          
          
            
+             
+              <breadCrumb title="blog" url="https://github.com/xiaocuigit/ruilong.github.io/ruilong.github.io/categories/blog/"/>
+          
         </display>
     </data>
     </url>
@@ -23,18 +40,4 @@
     
     
     
-  <url>
-    <loc>https://github.com/xiaocuigit/ruilong.github.io/ruilong.github.io/2018/05/07/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2018-05-07T13:39:31.266Z</lastmod>
-    <data>
-        <display>
-        <title>第一个博客</title>
-        <pubTime>2018-05-07T13:39:31.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
